@@ -1,6 +1,6 @@
 const fortunes = [
     "Ask Chatgpt.",
-    "You will fund unexpected joy in the next 24 hours",
+    "You will find unexpected joy in the next 24 hours",
     "A long-awaited dream will come true",
     "You'll meet up with someone from your past and reconnect.",
     "Switch to computer science.",
